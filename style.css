@@ -1,0 +1,14 @@
+/* body element, which is styled via css */
+
+body {
+  background-color: lightcoral;
+}
+
+/* this circle is a CLASS, this is the CLASS of circle */
+
+.circle {
+  background-color: lightseagreen;
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
